@@ -10,7 +10,7 @@ Making something...
 ## Environment
 **CUDA Version:** 12.6
 
-Create a new `uv` environment and install vLLM (instructions [https://docs.vllm.ai/en/latest/getting_started/installation/gpu.html#set-up-using-python](here))
+Create a new `uv` environment and install vLLM (instructions [here](https://docs.vllm.ai/en/latest/getting_started/installation/gpu.html#set-up-using-python))
 
 ## Serve Model
 
